@@ -20,3 +20,10 @@
     <br><br> 
     Name: <input name="fullname" required="" size="75" type="text"/> 
     <br><br> 
+    Email: <input name="email" required="" size="75" type="email"/> 
+    <br><br>
+    <input name="submit" type="submit" value="submit"/>
+</form> 
+    <!--Placeholder for identify and track script -->
+</body> 
+</html>
